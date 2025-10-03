@@ -1,0 +1,2 @@
+# mangonomi
+yes
